@@ -7,4 +7,4 @@ sudo apt-get update
 sudo apt-get install -y nginx
 
 # Set the home page.
-echo "<html><body><h2>Welcome to my website !!! My name is Luca .</h2></body></html>" | sudo tee -a /var/www/html/index.html
+echo "<html><body><h2>Vincent est le meilleur informaticien de l'eptm .</h2></body></html>" | sudo tee -a /var/www/html/index.html
